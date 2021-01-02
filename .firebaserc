@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "nuxt-firebase-starter-staging",
+    "default": "nuxt-firebase-starter"
+  }
+}
