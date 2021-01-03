@@ -5,7 +5,7 @@
       <template v-if="isDev">
         <div class="block p-4 fixed top-0 right-0">
           <button
-            class="px-3 py-1 font-bold rounded bg-gray-200 shadow"
+            class="px-3 py-1 font-bold rounded bg-gray-200 shadow z-50"
             @click="logOut"
           >
             Logout
